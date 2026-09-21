@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://khukuriblaze.com.au/sitemap.xml
+Sitemap: https://khukuriblaze.org.au/sitemap.xml
